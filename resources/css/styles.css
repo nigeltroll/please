@@ -28,7 +28,5 @@ color: white;
 body {text-align: centered ;}
 
 h1,h2 {background-image: url('https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png');
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    background-clip: padding-box;
+  
 }
