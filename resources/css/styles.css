@@ -30,8 +30,6 @@ body {text-align: centered;}
 
 {
   background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
-  background-size: cover;
-  background-position: bottom center;
-  height: 700px;
+  height: 300px;
   width: 100%;
 }
