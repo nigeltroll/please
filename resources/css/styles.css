@@ -20,17 +20,16 @@ h6{font-family: Helvetica;
 font-size:11px;
 color: white;
 background-color: dimgray;}
-h7 { font-family: Helvetica;
+
+h7 {font-family: Helvetica;
 font-size: 23px;
 font-weight: bold;
-color: white;
+color: white;}
 
-
-}
 body {text-align: centered;}
 
 {
-  background-image: url('https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png');
+  background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
   background-size: cover;
   background-position: bottom center;
   height: 700px;
