@@ -3,7 +3,10 @@ font-size: 70px;
 font-weight: bold;
 color:white;
 background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
+background-repeat: no-repeat;
+background-position: center top;
 }
+
 h2 { font-family: Helvetica;
 font-size: 18px;
 color: white;
