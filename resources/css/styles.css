@@ -2,10 +2,12 @@ h1 { font-family: Helvetica;
 font-size: 70px;
 font-weight: bold;
 color:white;
+background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
 }
 h2 { font-family: Helvetica;
 font-size: 18px;
 color: white;
+background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
 }
 h3 {font-family: Helvetica;
 font-size: 32px;
@@ -27,8 +29,3 @@ font-weight: bold;
 color: white;}
 
 body {text-align: centered;}
-
-h1, h2 {
-  background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
-
-}
