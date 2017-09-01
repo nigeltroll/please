@@ -1,5 +1,5 @@
 
-.h1broad{
+.h1broad {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
@@ -12,8 +12,9 @@ color: white;
 background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
 background-repeat: no-repeat;
 text-align: center;
-height:70px;
+height:20px;
 margin:auto;
+padding:2%;
 
 }
 h3 {font-family: Helvetica;
@@ -25,10 +26,15 @@ font-size: 23px;
 font-weight: bold;}
 h5 { font-family: Helvetica;
 font-size: 14px;}
-h6{font-family: Helvetica;
+
+footer
+    {font-family: Helvetica;
 font-size:11px;
 color: white;
-background-color: dimgray;}
+background-color: dimgray;
+text-align: left;
+}
+
 
 .newyork {font-family: Helvetica;
 font-size: 23px;
@@ -36,8 +42,9 @@ font-weight: bold;
 color: white;
 background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
 text-align: center;
-height:30px;
-width:90%;
+height: 20px;
+padding:2%;
+
 
 }
 
@@ -46,8 +53,6 @@ width:90%;
 }
 
   .container{
-    width:90%;
+   
 
-
-
-  }
+}
