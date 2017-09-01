@@ -1,13 +1,11 @@
-h1 { font-family: Helvetica;
-font-size: 70px;
-font-weight: bold;
-color:white;
-background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
-background-repeat: no-repeat;
-text-align: center;
-height:50px;
-}
 
+.h1broad{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color:white;
+  text-align: center;
+}
 .nav { font-family: Helvetica;
 font-size: 18px;
 color: white;
