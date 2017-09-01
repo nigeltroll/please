@@ -5,6 +5,7 @@ color:white;
 background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
 background-repeat: no-repeat;
 text-align: center;
+height:50px;
 }
 
 .nav { font-family: Helvetica;
@@ -13,6 +14,7 @@ color: white;
 background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
 background-repeat: no-repeat;
 text-align: center;
+
 }
 h3 {font-family: Helvetica;
 font-size: 32px;
