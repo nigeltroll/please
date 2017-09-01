@@ -12,6 +12,7 @@ color: white;
 background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
 background-repeat: no-repeat;
 text-align: center;
+height:40px;
 
 }
 h3 {font-family: Helvetica;
@@ -28,9 +29,16 @@ font-size:11px;
 color: white;
 background-color: dimgray;}
 
-h7 {font-family: Helvetica;
+.newyork {font-family: Helvetica;
 font-size: 23px;
 font-weight: bold;
-color: white;}
+color: white;
+background-image: url("https://nigeltroll.github.io/please/resources/images/the-flatiron-building.png");
+text-align: center;
+height:30px;
 
-body {text-align: center;}
+
+}
+
+.main {
+  text-align: center;}
